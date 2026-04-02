@@ -1,7 +1,7 @@
 # R3Drive-Cleaner
 A lightweight Windows disk cleaner with a GUI — safely removes temp files, empties the recycle bin, and manages browser cleanup with smart process handling.
 
-![image alt](https://github.com/ReeceWheeler/R3DriveCleaner/blob/main/Screenshot.png?raw=true)
+![image alt](https://github.com/ReeceWheeler/R3Drive-Cleaner/blob/main/Screenshot.png?raw=true)
 
 ## ✨ Features
 
